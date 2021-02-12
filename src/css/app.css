@@ -1,0 +1,25 @@
+/* Your app custom styles here */
+
+.radius {
+    border-radius: 1.0rem;
+}
+
+
+span.badge.color-blue {
+    border-radius: 9000rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    position: absolute;
+    top: 18px;
+    transform: translateX(-51px);
+}
+
+div.list.inset.media-list {
+    margin-top: 1px;
+    margin-bottom: 0px;
+}
+
+.page-content div:first-of-type .list.inset.media-list {
+    margin-top: 35px;
+}
+
