@@ -9,6 +9,18 @@ export const Apps = [{
         "image": "https://storage.ihvn.dev/icons/apps/instagram.png",
         "name": "Instagram Rocket",
         "subtitle": "Tweaked Instagram"
+    },
+    {
+        "url": "#",
+        "image": "https://storage.ihvn.dev/icons/1609.png",
+        "name": "Spotify++",
+        "subtitle": "Tweaked Spotify"
+    },
+    {
+        "url": "#",
+        "image": "https://storage.ihvn.dev/icons/apps/minecraft.jpg",
+        "name": "Minecraft",
+        "subtitle": "Minecraft is Free"
     }
 
 ]
