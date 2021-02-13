@@ -1,13 +1,21 @@
 import React from 'react'
 import { Apps } from '../apps'
 import {
+    Page,
     List,
     ListItem
   } from 'framework7-react';
 
 export const AppsComponent = () => {
+    const refreshPage = (done) => {
+        setTimeout(() => {
+            done();
+        }, 1000);
+    }
 return (
 <>
+<Page ptr={true} ptrDistance={44} ptrPreloader={true} onPtrRefresh={refreshPage}>
+
     {Apps.map((data, key) => {
     return (
     <div key={key}>
@@ -19,6 +27,10 @@ return (
     </div>
     )
     })}
+</Page>
+
+
+
 </>
 )
 }

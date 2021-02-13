@@ -20,7 +20,7 @@ const MyApp = () => {
   // Framework7 Parameters
   const f7params = {
     name: 'starbox', // App name
-      theme: 'ios', // Automatic theme detection
+    theme: 'ios', // Automatic theme detection
 
 
 
@@ -39,18 +39,6 @@ const MyApp = () => {
 
   return (
     <App { ...f7params } themeDark>
-
-
-        {/* Right panel with reveal effect*/}
-        <Panel right reveal themeDark>
-          <View>
-            <Page>
-              <Navbar title="Connect with us!"/>
-              <Link href="https://twitter.com/starbox_app" target="_blank" external={true} iconIos="f7:logo_twitter" iconAurora="f7:logo_twitter" text="Follow us on Twitter!" />
-            </Page>
-          </View>
-        </Panel>
-
 
         {/* Views/Tabs container */}
         <Views tabs className="safe-areas">

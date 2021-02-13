@@ -5,7 +5,6 @@ Page,
 Navbar,
 NavTitle,
 NavTitleLarge,
-NavRight,
 Link,
 Block
 } from 'framework7-react';
@@ -15,9 +14,6 @@ const HomePage = () => (
   {/* Top Navbar */}
   <Navbar large sliding={false}>
     <NavTitle sliding>starbox</NavTitle>
-    <NavRight>
-      <Link iconIos="f7:menu" iconAurora="f7:menu" iconMd="material:menu" panelOpen="right" />
-    </NavRight>
     <NavTitleLarge>Home</NavTitleLarge>
   </Navbar>
 
@@ -28,6 +24,7 @@ const HomePage = () => (
         <img className="app-icon" src={Icon} alt="" />
       </div>
       <p>Apple's least favorite store but actaully this time.</p>
+      <Link href="https://twitter.com/starbox_app" target="_blank" external={true} iconIos="f7:logo_twitter" iconAurora="f7:logo_twitter" text="Follow us on Twitter!" />
     </div>
 
   </Block>
