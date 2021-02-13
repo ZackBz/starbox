@@ -23,3 +23,10 @@ div.list.inset.media-list {
     margin-top: 35px;
 }
 
+.app-icon {
+    border-radius: 1.1rem;
+    overflow: hidden;
+    height: 60px;
+    width: 60px;
+  }
+

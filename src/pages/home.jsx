@@ -1,4 +1,5 @@
 import React from 'react';
+import  Icon  from '../static/app-icon.png'
 import {
 Page,
 Navbar,
@@ -23,6 +24,9 @@ const HomePage = () => (
   {/* Page content */}
   <Block strong>
     <div className="text-align-center">
+      <div className="icon-wrapper">
+        <img className="app-icon" src={Icon} alt="" />
+      </div>
       <p>Apple's least favorite store but actaully this time.</p>
     </div>
 

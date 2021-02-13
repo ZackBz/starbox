@@ -46,7 +46,7 @@ const MyApp = () => {
           <View>
             <Page>
               <Navbar title="Connect with us!"/>
-              <Link href="https://twitter.com/starbox_app" target="_blank" external={true} iconIos="f7:logo_twitter" iconAurora="f7:logo_twitter" text="Follow us on Twitter" />
+              <Link href="https://twitter.com/starbox_app" target="_blank" external={true} iconIos="f7:logo_twitter" iconAurora="f7:logo_twitter" text="Follow us on Twitter!" />
             </Page>
           </View>
         </Panel>
