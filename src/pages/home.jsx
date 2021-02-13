@@ -13,7 +13,7 @@ const HomePage = () => (
 <Page name="home">
   {/* Top Navbar */}
   <Navbar large sliding={false}>
-    <NavTitle sliding>starbox</NavTitle>
+    <NavTitle sliding={false}>starbox</NavTitle>
     <NavTitleLarge>Home</NavTitleLarge>
   </Navbar>
 
