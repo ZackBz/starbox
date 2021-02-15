@@ -1,6 +1,7 @@
 import React from 'react';
 import { AppsComponent } from '../components/apps'
 import { Games } from '../components/games'
+import { FeaturedComponent } from '../components/featured'
 
 import {
 Page,
@@ -20,6 +21,7 @@ const SearchPage = () => (
   </List>
   <AppsComponent />
   <Games />
+  <FeaturedComponent />
 </Page>
 
 

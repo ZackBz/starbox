@@ -38,12 +38,12 @@ const MyApp = () => {
   });
 
   return (
-    <App { ...f7params } themeDark>
+    <App { ...f7params } autoDarkTheme>
 
         {/* Views/Tabs container */}
         <Views tabs className="safe-areas">
           {/* Tabbar for switching views-tabs */}
-          <Toolbar tabbar labels bottom>
+          <Toolbar tabbar labels bottomIos>
             <Link tabLink="#view-home" tabLinkActive iconIos="f7:house_fill" iconAurora="f7:house_fill" iconMd="material:home" text="Home" />
             <Link tabLink="#view-games" iconIos="f7:gamecontroller_fill" iconAurora="f7:gamecontroller_fill" iconMd="material:games" text="Games" />
             <Link tabLink="#view-apps" iconIos="f7:layers_fill" iconAurora="f7:layers_fill" iconMd="material:layers" text="Apps" />

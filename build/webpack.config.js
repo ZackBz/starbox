@@ -47,6 +47,8 @@ module.exports = {
     contentBase: '/www/',
     disableHostCheck: true,
     historyApiFallback: true,
+    host: "0.0.0.0",
+    port: 3000
   },
   optimization: {
     concatenateModules: true,
