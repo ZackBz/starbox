@@ -55,7 +55,7 @@ export const Apps = [{
         "subtitle": "Tweaked App"
     },
     {
-        "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/Instagram%20Rhino.plist",
+        "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/igrhino.plist",
         "image": "https://storage.ihvn.dev/icons/b2ce1a321fb3b3ad08abfa1fe7fa85cf532a97d03abf8a1a2712a9de9219081b.png",
         "name": "Instagram Rhino",
         "version": "version 169.0",
