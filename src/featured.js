@@ -23,7 +23,7 @@ export const Featured =
     },
     {
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/delta.plist",
-        "image": "https://content.app-valley.vip/icon/202.png",
+        "image": "https://storage.ihvn.dev/icons/f21ba563e02a4b3f5389c3601b04fa20a53d134a9f3894c6adba5ce0f9ff1452.png",
         "name": "Delta",
         "version": "version 1.1.2",
         "subtitle": "Emulator"
