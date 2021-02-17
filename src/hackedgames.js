@@ -62,6 +62,13 @@ export const HackedGames =
         "name": "Toon Blast Hack",
         "version": "version 6459",
         "subtitle": "Hacked Game"
+    },
+    {
+        "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/plenixclash.plist",
+        "image": "https://storage.ihvn.dev/icons/apps/coc.png",
+        "name": "PlenixClash",
+        "version": "version 13.369.29",
+        "subtitle": "Hacked Game"
     }
 
 ]
