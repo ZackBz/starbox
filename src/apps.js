@@ -48,6 +48,13 @@ export const Apps = [{
         "subtitle": "Tweaked App"
     },
     {
+        "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/soundcloud.plist",
+        "image": "https://storage.ihvn.dev/icons/apps/soundcloud.jpg",
+        "name": "SoundCloud++",
+        "version": "version 5.100",
+        "subtitle": "Tweaked App"
+    },
+    {
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/facebookwolf.plist",
         "image": "https://storage.ihvn.dev/icons/2c9d458941e33688e502d51bd2b56f8163912d0a4bb11f6f4abae34537fcfe66.png",
         "name": "Facebook Wolf",
