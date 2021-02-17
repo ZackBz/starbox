@@ -36,6 +36,20 @@ export const HackedGames =
         "subtitle": "Hacked Game"
     },
     {
+        "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/pvz2.plist",
+        "image": "https://storage.ihvn.dev/icons/apps/plantsvszombies2hack.jpg",
+        "name": "Plants vs. Zombies 2 Hack",
+        "version": "version 8.7.2",
+        "subtitle": "Hacked Game"
+    },
+    {
+        "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/flappybird.plist",
+        "image": "https://storage.ihvn.dev/icons/apps/flappybird.png",
+        "name": "Flappy bird",
+        "version": "version 3.8",
+        "subtitle": "Classic Game"
+    },
+    {
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/gtasa.plist",
         "image": "https://storage.ihvn.dev/icons/apps/gtasanandreas.jpg",
         "name": "GTA: San Andreas Hack",

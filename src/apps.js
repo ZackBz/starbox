@@ -48,10 +48,24 @@ export const Apps = [{
         "subtitle": "Tweaked App"
     },
     {
+        "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/photomath.plist",
+        "image": "https://storage.ihvn.dev/icons/59fad7dc3907621470136f6ecefac0b98cfa31874fcb9782323e0a1e86f6525e.png",
+        "name": "Photomath Plus",
+        "version": "version 7.4.0",
+        "subtitle": "Tweaked App"
+    },
+    {
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/VSCOLion.plist",
         "image": "https://storage.ihvn.dev/icons/8d2725737d912035771611a568c4b5e3ef02725e43f3ca1021606aa3c4a36958.png",
         "name": "Lion for VSCO",
         "version": "version 196.1",
+        "subtitle": "Tweaked App"
+    },
+    {
+        "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/RedditLizard.plist",
+        "image": "https://storage.ihvn.dev/icons/1288b8ee1a406bc0f8175005176bcb8fb24355f372e92eba9c4fb4c05f1361c0.png",
+        "name": "Lizard for Reddit",
+        "version": "version 2020.48.0",
         "subtitle": "Tweaked App"
     },
     {
