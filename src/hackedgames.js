@@ -67,7 +67,7 @@ export const HackedGames =
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/plenixclash.plist",
         "image": "https://storage.ihvn.dev/icons/apps/coc.png",
         "name": "PlenixClash",
-        "version": "version 13.369.29",
+        "version": "version 13.576",
         "subtitle": "Hacked Game"
     }
 
