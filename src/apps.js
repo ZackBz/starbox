@@ -48,6 +48,20 @@ export const Apps = [{
         "subtitle": "Tweaked App"
     },
     {
+        "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/VSCOLion.plist",
+        "image": "https://storage.ihvn.dev/icons/8d2725737d912035771611a568c4b5e3ef02725e43f3ca1021606aa3c4a36958.png",
+        "name": "Lion for VSCO",
+        "version": "version 196.1",
+        "subtitle": "Tweaked App"
+    },
+    {
+        "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/KineMaster.plist",
+        "image": "https://storage.ihvn.dev/icons/apps/kinemaster.jpg",
+        "name": "KineMaster Tweaked",
+        "version": "version 4.16.2",
+        "subtitle": "Tweaked App"
+    },
+    {
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/soundcloud.plist",
         "image": "https://storage.ihvn.dev/icons/apps/soundcloud.jpg",
         "name": "SoundCloud++",
