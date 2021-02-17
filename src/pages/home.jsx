@@ -17,7 +17,7 @@ import {
 const HomePage = () => {
 
 const reload = () => {
-    location.reload()
+    location.reload(true)
 }
 
 return(
