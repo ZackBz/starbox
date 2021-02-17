@@ -5,8 +5,14 @@ Page,
 Navbar
 } from 'framework7-react';
 
-const AppsPage = () => (
-<Page name="apps">
+const AppsPage = () => {
+
+  const reload = () => {
+    location.reload()
+  }
+
+  return(
+<Page name="apps" ptr onPtrRefresh={reload}>
   <Navbar title="Tweaked Apps" />
   <AppsComponent />
 </Page>
@@ -14,5 +20,5 @@ const AppsPage = () => (
 
 );
 
-
+}
 export default AppsPage;

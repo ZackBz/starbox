@@ -11,8 +11,16 @@ List,
 ListItem
 } from 'framework7-react';
 
-const SearchPage = () => (
-<Page name="search">
+const SearchPage = () => {
+
+  const reload = () => {
+    location.reload()
+  }
+
+  return (
+
+  
+<Page name="search" ptr onPtrRefresh={reload}>
   <Navbar title="Search" />
   <Searchbar init={true} searchContainer=".search-list" searchIn=".item-title" disableButtonText="Cancel"
     placeholder="Search in starbox" clearButton={true}></Searchbar>
@@ -24,8 +32,8 @@ const SearchPage = () => (
   <FeaturedComponent />
 </Page>
 
-
+  
 );
-
+  }
 
 export default SearchPage;

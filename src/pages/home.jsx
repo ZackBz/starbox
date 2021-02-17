@@ -12,9 +12,20 @@ import {
   Block,
 } from "framework7-react";
 
-const HomePage = () => (
+
+
+const HomePage = () => {
+
+const reload = () => {
+    location.reload()
+}
+
+return(
+
+
+
   <>
-    <Page name="home">
+    <Page name="home" ptr onPtrRefresh={reload} ptrMousewheel={true}>
       {/* Top Navbar */}
       <Navbar large sliding>
         <NavTitle sliding>starbox</NavTitle>
@@ -48,5 +59,7 @@ const HomePage = () => (
       </PageContent>
     </Page>
   </>
+
 );
+}
 export default HomePage;

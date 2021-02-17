@@ -5,14 +5,18 @@ Page,
 Navbar
 } from 'framework7-react';
 
-const GamesPage = () => (
-<Page name="games">
+const GamesPage = () => {
+const reload = () => {
+  location.reload()
+}
+  return(
+<Page name="games" ptr onPtrRefresh={reload}>
   <Navbar title="Hacked Games" />
-  <Games />
+<Games />
 </Page>
 
 
 );
-
+}
 
 export default GamesPage;
