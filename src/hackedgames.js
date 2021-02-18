@@ -23,7 +23,7 @@ export const HackedGames =
     },
     {
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/thesimsmobile.plist",
-        "image": "https://storage.ihvn.dev/icons/dbda9a7a7f931e8d78b1834b51d5fe3b0ca6d43ef8198933c6749d17b6bc7a96.jpeg",
+        "image": "https://storage.ihvn.dev/icons/ed1bc3e5953edbc2cccc7b1549223098523b33f98c2b3115b46865f92fe034f3.jpg",
         "name": "The Sims Mobile Hack",
         "version": "version 23.0.3",
         "subtitle": "Hacked Game"
