@@ -8,6 +8,13 @@ export const HackedGames =
     "subtitle": "Hacked Game"
     },
     {
+        "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/spooferx.plist",
+        "image": "https://storage.ihvn.dev/icons/c3fbd3443a25e98a0b2c8c32d4bb8c5dfc2e5d931de202ea92e5fd0861c5b851.png",
+        "name": "SpooferX Pokémon GO",
+        "version": "version 0.199.0",
+        "subtitle": "Hacked Game"
+        },
+    {
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/lastdayonearthsurvivalhack.plist",
         "image": "https://storage.ihvn.dev/icons/apps/ldoe.jpg",
         "name": "Last Day on Earth Hack",
