@@ -15,6 +15,13 @@ export const HackedGames =
         "subtitle": "Hacked Game"
     },
     {
+        "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/romancefatestorygamehack.plist",
+        "image": "https://storage.ihvn.dev/icons/dbda9a7a7f931e8d78b1834b51d5fe3b0ca6d43ef8198933c6749d17b6bc7a96.jpeg",
+        "name": "Romance Fate: Story Hack",
+        "version": "version 2.3.6",
+        "subtitle": "Hacked Game"
+    },
+    {
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/agariohack.plist",
         "image": "https://storage.ihvn.dev/icons/apps/agar.io.jpg",
         "name": "Agar.io Hack",
@@ -38,7 +45,7 @@ export const HackedGames =
     {
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/pvz2.plist",
         "image": "https://storage.ihvn.dev/icons/apps/plantsvszombies2hack.jpg",
-        "name": "Plants vs. Zombies 2 Hack",
+        "name": "PvZ 2 Hack",
         "version": "version 8.7.2",
         "subtitle": "Hacked Game"
     },
