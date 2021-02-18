@@ -17,8 +17,15 @@ export const HackedGames =
     {
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/romancefatestorygamehack.plist",
         "image": "https://storage.ihvn.dev/icons/dbda9a7a7f931e8d78b1834b51d5fe3b0ca6d43ef8198933c6749d17b6bc7a96.jpeg",
-        "name": "Romance Fate: Story Hack",
+        "name": "Romance Fate Hack",
         "version": "version 2.3.6",
+        "subtitle": "Hacked Game"
+    },
+    {
+        "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/thesimsmobile.plist",
+        "image": "https://storage.ihvn.dev/icons/dbda9a7a7f931e8d78b1834b51d5fe3b0ca6d43ef8198933c6749d17b6bc7a96.jpeg",
+        "name": "The Sims Mobile Hack",
+        "version": "version 23.0.3",
         "subtitle": "Hacked Game"
     },
     {

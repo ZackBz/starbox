@@ -20,6 +20,13 @@ export const Apps = [{
         "subtitle": "Tweaked Spotify"
     },
     {
+        "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/cercube.plist",
+        "image": "https://storage.ihvn.dev/icons/1697f1557955164538f55c672f85d470243d9abdadb7ccb83b970a0831057bb9.png",
+        "name": "Cercube 5 for Youtube",
+        "version": "version 15.49.4",
+        "subtitle": "Tweaked Youtube"
+    },
+    {
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/minecraft.plist",
         "image": "https://storage.ihvn.dev/icons/apps/minecraft.jpg",
         "name": "Minecraft",
@@ -39,6 +46,13 @@ export const Apps = [{
         "name": "WhatsApp Watusi",
         "version": "version 2.21.11",
         "subtitle": "Tweaked App"
+    },
+    {
+        "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/dolphinios.plist",
+        "image": "https://storage.ihvn.dev/icons/c7d4631ce67d00862aa88ea632340ba9600ec5c964fc1c0ffa42204fc54ae668.png",
+        "name": "DolphiniOS",
+        "version": "version 3.1",
+        "subtitle": "Emulator"
     },
     {
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/Twitterowl.plist",
