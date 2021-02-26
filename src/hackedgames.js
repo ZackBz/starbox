@@ -4,21 +4,21 @@ export const HackedGames =
     "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/ipogo.plist",
     "image": "https://storage.ihvn.dev/icons/b4cf627abe479a71e714566b06df1886192c8a350f4962fc45f79601eacbd243.png",
     "name": "iPoGo",
-    "version": "version 1.96",
+    "version": "version 1.9.7",
     "subtitle": "Hacked Game"
     },
     {
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/spooferx.plist",
         "image": "https://storage.ihvn.dev/icons/c3fbd3443a25e98a0b2c8c32d4bb8c5dfc2e5d931de202ea92e5fd0861c5b851.png",
         "name": "SpooferX Pokémon GO",
-        "version": "version 0.199.0",
+        "version": "version 0.201.0",
         "subtitle": "Hacked Game"
         },
     {
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/lastdayonearthsurvivalhack.plist",
         "image": "https://storage.ihvn.dev/icons/apps/ldoe.jpg",
         "name": "Last Day on Earth Hack",
-        "version": "version 9.13",
+        "version": "version 1.17.8",
         "subtitle": "Hacked Game"
     },
     {
@@ -32,7 +32,7 @@ export const HackedGames =
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/thesimsmobile.plist",
         "image": "https://storage.ihvn.dev/icons/ed1bc3e5953edbc2cccc7b1549223098523b33f98c2b3115b46865f92fe034f3.jpg",
         "name": "The Sims Mobile Hack",
-        "version": "version 23.0.3",
+        "version": "version 25.0.3",
         "subtitle": "Hacked Game"
     },
     {
@@ -95,7 +95,7 @@ export const HackedGames =
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/toonblasthack.plist",
         "image": "https://storage.ihvn.dev/icons/apps/toonblast.jpg",
         "name": "Toon Blast Hack",
-        "version": "version 6459",
+        "version": "version 6497",
         "subtitle": "Hacked Game"
     },
     {

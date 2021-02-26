@@ -18,7 +18,7 @@ export const Featured =
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/tiktok++.plist",
         "image": "https://storage.ihvn.dev/icons/apps/tikitok.png",
         "name": "TikTok++",
-        "version": "version 18.0.0",
+        "version": "version 18.5.0",
         "subtitle": "Tweaked Game"
     },
     {
@@ -34,6 +34,13 @@ export const Featured =
         "name": "GBA4iOS",
         "version": "version 2.1.1",
         "subtitle": "Emulator"
-    }
+    },
+    {
+        "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/gc4ios.plist",
+        "image": "https://storage.ihvn.dev/icons/6c3554f5bd32575bf1838e80bdeb1780f2f302e6c3a7d5168c94ac1f842b26df.jpg",
+        "name": "GC4iOS",
+        "version": "version 0.1.3",
+        "subtitle": "Emulator"
+    },
 
 ]
