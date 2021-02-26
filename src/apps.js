@@ -104,6 +104,13 @@ export const Apps = [{
         "subtitle": "Tweaked App"
     },
     {
+        "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/sharkformessenger.plist",
+        "image": "https://storage.ihvn.dev/icons/fc599f278f0c021df1fe44f8c13395b06a33ae32b30a78be3cf3acc486291d6b.png",
+        "name": "Shark for Messenger",
+        "version": "version 301.0",
+        "subtitle": "Tweaked Messenger"
+    },
+    {
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/igrhino.plist",
         "image": "https://storage.ihvn.dev/icons/b2ce1a321fb3b3ad08abfa1fe7fa85cf532a97d03abf8a1a2712a9de9219081b.png",
         "name": "Instagram Rhino",
