@@ -27,6 +27,13 @@ export const Apps = [{
         "subtitle": "Tweaked Youtube"
     },
     {
+        "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/batforyoutube.plist",
+        "image": "https://storage.ihvn.dev/icons/72147804f104485962229a8204b0734e92dfec347884fe6b4bd7a9b9c4cac879.png",
+        "name": "Bat for Youtube",
+        "version": "version 16.05.7",
+        "subtitle": "Tweaked App"
+    },
+    {
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/minecraft.plist",
         "image": "https://storage.ihvn.dev/icons/apps/minecraft.jpg",
         "name": "Minecraft",
