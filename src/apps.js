@@ -1,8 +1,8 @@
 export const Apps = [{
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/unc0ver.plist",
         "image": "https://storage.ihvn.dev/icons/apps/uncover.png",
-        "name": "Unc0ver iOS 11.0 - 13.5",
-        "version": "version 1.3.2",
+        "name": "Unc0ver iOS 11.0 - 14.3",
+        "version": "version 6.0.0",
         "subtitle": "Jailbreak App"
     },
     {
