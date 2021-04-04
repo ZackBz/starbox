@@ -2,14 +2,14 @@ export const Apps = [{
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/unc0ver.plist",
         "image": "https://storage.ihvn.dev/icons/apps/uncover.png",
         "name": "Unc0ver iOS 11.0 - 14.3",
-        "version": "version 6.0.0",
+        "version": "version 6.1.1",
         "subtitle": "Jailbreak App"
     },
     {
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/igrocket.plist",
         "image": "https://storage.ihvn.dev/icons/apps/instagram.png",
         "name": "Instagram Rocket",
-        "version": "version 173.0",
+        "version": "version 178.0",
         "subtitle": "Tweaked Instagram"
     },
     {
@@ -37,7 +37,7 @@ export const Apps = [{
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/minecraft.plist",
         "image": "https://storage.ihvn.dev/icons/apps/minecraft.jpg",
         "name": "Minecraft",
-        "version": "version 10.4.1",
+        "version": "version 1.16.210",
         "subtitle": "Minecraft is Free"
     },
     {
@@ -58,7 +58,7 @@ export const Apps = [{
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/dolphinios.plist",
         "image": "https://storage.ihvn.dev/icons/c7d4631ce67d00862aa88ea632340ba9600ec5c964fc1c0ffa42204fc54ae668.png",
         "name": "DolphiniOS",
-        "version": "version 3.1",
+        "version": "version 3.1.1",
         "subtitle": "Emulator"
     },
     {

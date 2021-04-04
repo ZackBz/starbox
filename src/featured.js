@@ -1,5 +1,10 @@
-export const Featured = 
-[
+export const Featured = [{
+        "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/Taurine-1.0.ipa",
+        "image": "https://storage.ihvn.dev/icons/a34e7ce348fc20ce601467763373fc186bd51cd36bcecef6e612aec8c5bb30c9.png",
+        "name": "Taurine iOS 14.0-14.3",
+        "version": "version 1.0",
+        "subtitle": "JB App"
+    },
     {
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/plankfilza.plist",
         "image": "https://storage.ihvn.dev/icons/apps/fileza.png",
@@ -8,11 +13,11 @@ export const Featured =
         "subtitle": "File Manager"
     },
     {
-    "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/odyssey.plist",
-    "image": "https://storage.ihvn.dev/icons/a28e0b49c3fffd8be636472cf7ce540e49235b2520ffac07d4cb9a504bafe288.jpeg",
-    "name": "Odyssey Jailbreak",
-    "version": "version 1.2.2",
-    "subtitle": "JB App"
+        "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/odyssey.plist",
+        "image": "https://storage.ihvn.dev/icons/a28e0b49c3fffd8be636472cf7ce540e49235b2520ffac07d4cb9a504bafe288.jpeg",
+        "name": "Odyssey Jailbreak",
+        "version": "version 1.2.2",
+        "subtitle": "JB App"
     },
     {
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/tiktok++.plist",
