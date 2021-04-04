@@ -114,7 +114,7 @@ export const Apps = [{
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/sharkformessenger.plist",
         "image": "https://storage.ihvn.dev/icons/fc599f278f0c021df1fe44f8c13395b06a33ae32b30a78be3cf3acc486291d6b.png",
         "name": "Shark for Messenger",
-        "version": "version 301.0",
+        "version": "version 302.1",
         "subtitle": "Tweaked Messenger"
     },
     {

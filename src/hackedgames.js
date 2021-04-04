@@ -22,6 +22,13 @@ export const HackedGames =
         "subtitle": "Hacked Game"
     },
     {
+        "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/injustice2.plist",
+        "image": "https://storage.ihvn.dev/icons/7f5785fc81a235a776cb56674a3b64ab1c2bdaa0740c4038e033f623f8eb9d0d.jpg",
+        "name": "Injustice 2 Hack",
+        "version": "version 4.3",
+        "subtitle": "Hacked Game"
+    },
+    {
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/romancefatestorygamehack.plist",
         "image": "https://storage.ihvn.dev/icons/dbda9a7a7f931e8d78b1834b51d5fe3b0ca6d43ef8198933c6749d17b6bc7a96.jpeg",
         "name": "Romance Fate Hack",
@@ -32,7 +39,7 @@ export const HackedGames =
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/thesimsmobile.plist",
         "image": "https://storage.ihvn.dev/icons/ed1bc3e5953edbc2cccc7b1549223098523b33f98c2b3115b46865f92fe034f3.jpg",
         "name": "The Sims Mobile Hack",
-        "version": "version 25.0.3",
+        "version": "version 25.1.0",
         "subtitle": "Hacked Game"
     },
     {
@@ -60,7 +67,7 @@ export const HackedGames =
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/pvz2.plist",
         "image": "https://storage.ihvn.dev/icons/apps/plantsvszombies2hack.jpg",
         "name": "PvZ 2 Hack",
-        "version": "version 8.7.2",
+        "version": "version 8.7.3",
         "subtitle": "Hacked Game"
     },
     {
@@ -95,14 +102,14 @@ export const HackedGames =
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/toonblasthack.plist",
         "image": "https://storage.ihvn.dev/icons/apps/toonblast.jpg",
         "name": "Toon Blast Hack",
-        "version": "version 6497",
+        "version": "version 6631",
         "subtitle": "Hacked Game"
     },
     {
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/plenixclash.plist",
         "image": "https://storage.ihvn.dev/icons/apps/coc.png",
         "name": "PlenixClash",
-        "version": "version 13.576",
+        "version": "version 13.369.29",
         "subtitle": "Hacked Game"
     }
 
