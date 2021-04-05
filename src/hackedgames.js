@@ -22,6 +22,13 @@ export const HackedGames =
         "subtitle": "Hacked Game"
     },
     {
+        "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/lolwildrift.plist",
+        "image": "https://storage.ihvn.dev/icons/7d20144641816e2ed1729787688c54672da461f2d3fd51b93e7d2e805854277f.jpeg",
+        "name": "LoL: Wild Rift Hack",
+        "version": "version 4027",
+        "subtitle": "Hacked Game"
+    },
+    {
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/injustice2.plist",
         "image": "https://storage.ihvn.dev/icons/7f5785fc81a235a776cb56674a3b64ab1c2bdaa0740c4038e033f623f8eb9d0d.jpg",
         "name": "Injustice 2 Hack",
@@ -29,10 +36,17 @@ export const HackedGames =
         "subtitle": "Hacked Game"
     },
     {
+        "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/thesimpsonstappedout.plist",
+        "image": "https://storage.ihvn.dev/icons/apps/simpsonstappedout.jpg",
+        "name": "The Simpsons™: Tapped Out Hack",
+        "version": "version 4.48.5",
+        "subtitle": "Hacked Game"
+    },
+    {
         "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/romancefatestorygamehack.plist",
         "image": "https://storage.ihvn.dev/icons/dbda9a7a7f931e8d78b1834b51d5fe3b0ca6d43ef8198933c6749d17b6bc7a96.jpeg",
         "name": "Romance Fate Hack",
-        "version": "version 2.3.6",
+        "version": "version 2.3.8",
         "subtitle": "Hacked Game"
     },
     {

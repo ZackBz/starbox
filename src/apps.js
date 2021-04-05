@@ -123,6 +123,13 @@ export const Apps = [{
         "name": "Instagram Rhino",
         "version": "version 175.0",
         "subtitle": "Tweaked App"
+    },
+    {
+        "url": "itms-services://?action=download-manifest&url=https://storage.starbox.app/signed/inds.plist",
+        "image": "https://storage.ihvn.dev/icons/apps/inds.png",
+        "name": "iNDS",
+        "version": "version 1.10.7",
+        "subtitle": "Emulator"
     }
 
 
